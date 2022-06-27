@@ -1,0 +1,24 @@
+#1Zadanie
+function validate(mass, acceleration, force) {
+    return mass * acceleration === force
+}
+
+$2Zadnaie
+button1  = document.getElementById('button1')
+function onClick(event){
+   console.log("Clicked");
+}
+
+button1.addEventListener('click', onClick);
+
+#3Zadanie 
+array.map(x => x+1)
+array.filter(x => x>=3)
+
+#4Zadanie
+car = new Object()
+car.make = 'Sedan'
+car.model = 'Vectra'
+car.drive = function () {
+  console.log("Driving");
+};
