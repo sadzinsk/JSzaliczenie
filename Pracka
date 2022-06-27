@@ -17,8 +17,8 @@ array.filter(x => x>=3)
 
 #4Zadanie
 car = new Object()
-car.make = 'Sedan'
-car.model = 'Vectra'
+car.make = 'Kombi'
+car.model = 'Astra'
 car.drive = function () {
   console.log("Driving");
 };
